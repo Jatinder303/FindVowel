@@ -2,7 +2,7 @@
 
 namespace FindVowel
 {
-    // This program is used to find that vowel.
+    // This program is used to find that entered char is a vowel or not.
     class Program
     {
         static void Main(string[] args)
